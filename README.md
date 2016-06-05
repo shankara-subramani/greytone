@@ -1,5 +1,4 @@
-# greytone
-##Greyscale colours for rapid prototyping
+# Greytone -Greyscale colours for rapid prototyping
 ###Installation
 <code> https://github.com/shankariyerr/greytone.git </code>
 ###Usage
