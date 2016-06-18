@@ -1,0 +1,6 @@
+{
+  "name": "Greytone",
+  "tagline": "Greyscale colours for rapid prototyping",
+  "body": "# Greytone -Greyscale colours for rapid prototyping\r\n###Installation\r\n<code> https://github.com/shankariyerr/greytone.git </code>\r\n###Usage\r\nAdd <code> greytone.css </code> to your project\r\n####Dark Series\r\n<pre>.dark-1</pre>\r\n####Mid Series\r\n<pre>.mid-1</pre>\r\n####Light Series\r\n<pre>.light-1</pre>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
