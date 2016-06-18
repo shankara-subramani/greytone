@@ -1,6 +1,6 @@
 # Greytone -Greyscale colours for rapid prototyping
 ###Installation
-<code> https://github.com/shankariyerr/greytone.git </code>
+<code>git clone https://github.com/shankariyerr/greytone.git </code>
 ###Usage
 Add <code> greytone.css </code> to your project
 ####Dark Series
